@@ -1,0 +1,7 @@
+README.md
+.vscode/settings.json
+bin/App.class
+bin/InterfaceiPhone/AparelhoTelefonico.class
+bin/InterfaceiPhone/NavegadorInternet.class
+bin/InterfaceiPhone/ReprodutorMusical.class
+bin/iPhone/iPhone.class
